@@ -6,12 +6,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently leraning second year Ariel University at particular software engineer.
-- 🌱 I’m currently learning JAVA,SQL,JS,HTML,CSS,NODE.JS.MONGODB.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ....
-- 😄 Pronouns: ...
+Languages and Tools:
+![image](https://github.com/NitayKurt/NitayKurt/assets/104898225/ed9a155b-786a-49c0-b840-ebdcc06b420a)
+
+
+
+- 📫 How to reach me: Nitay121@gmail.com
+
 - ⚡ Fun fact: 
 -->
