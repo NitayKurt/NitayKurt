@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently leraning second year Ariel University at particular software engineer.
-- 🌱 I’m currently learning JAVA,SQL,JS,HTML,CSS,NODE.JS.MONGODB,ReactJS.
+- 🌱 I’m currently learning JAVA,SQL,JS,HTML,CSS,NODE.JS.MONGODB,ReactJS,ReactNative.
 <!--
 **NitayKurt/NitayKurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
