@@ -13,5 +13,4 @@ Languages and Tools:
 
 - 📫 How to reach me: Nitay121@gmail.com
 
-- ⚡ Fun fact: 
 -->
