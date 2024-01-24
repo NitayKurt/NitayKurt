@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently finishing my second year at Ariel University as a particular software engineer.
-- 🌱 I’m currently learning JAVA, SQL, JS, HTML, CSS, NODE.JS, MongoDB, FireBase, ReactJS, ReactNative.
+- 🌱 I’m currently developing apps in React Native JS and Android with JAVA
 <!--
 **NitayKurt/NitayKurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
