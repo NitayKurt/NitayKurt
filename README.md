@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently finishing my second year at Ariel University as a particular software engineer.
-- 🌱 I’m currently developing apps in React Native JS and Android with JAVA
+- 🔭 I have just finished my software engineering studies at Ariel University with honors.
+- 🌱 I’m currently developing apps in React Native JS and JAVA for Android.
 <!--
 **NitayKurt/NitayKurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,7 @@ Languages and Tools:
 - 📫 How to reach me: Nitay121@gmail.com
 
 -->
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A passionate Full Stack developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
